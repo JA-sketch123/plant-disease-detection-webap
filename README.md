@@ -34,6 +34,7 @@ The project uses EfficientNetB3, a pre-trained Convolutional Neural Network mode
 
 ## Dataset
 The model was trained on a plant disease image dataset containing multiple categories of healthy and diseased plant leaves.
+Plant village dataset was used.
 
 ## Future Improvements
 - Real-time camera detection
