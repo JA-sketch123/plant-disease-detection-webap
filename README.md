@@ -43,6 +43,18 @@ Plant village dataset was used.
 - Improved model accuracy
 - Cloud deployment
 
+### Home Page
+![Home Page](homepage.png)
+
+### About Section
+![About](about.png)
+
+### Disease Detection
+![Detection](detection.png)
+
+### Diagnosis Result
+![Diagnosis](diagnosis.png)
+
 ## Author
 **Jahanvi Suri**  
 B.Tech CSE (Cyber Security) – VIT Chennai
